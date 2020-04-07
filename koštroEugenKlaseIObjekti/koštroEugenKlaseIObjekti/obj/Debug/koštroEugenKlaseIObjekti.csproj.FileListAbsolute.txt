@@ -1,0 +1,6 @@
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\bin\Debug\koštroEugenKlaseIObjekti.exe.config
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\bin\Debug\koštroEugenKlaseIObjekti.exe
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\bin\Debug\koštroEugenKlaseIObjekti.pdb
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\obj\Debug\koštroEugenKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\obj\Debug\koštroEugenKlaseIObjekti.exe
+C:\Users\kostr\source\repos\koštroEugenKlaseIObjekti\koštroEugenKlaseIObjekti\obj\Debug\koštroEugenKlaseIObjekti.pdb
